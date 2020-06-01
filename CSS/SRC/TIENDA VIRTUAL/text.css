@@ -1,0 +1,102 @@
+body {
+	margin: 0px;
+	font-family: cursive;
+}
+header {
+	background-color: #66CDAA;
+	font-family: cursive;
+	padding: 0px;
+	margin: 0px;
+}
+header h1 {
+	margin: 0px ;
+	padding: 10px ;
+	font-size: 200%;
+	text-align: middle;
+	float: left;
+}
+header input {
+	float: right;
+	text-align: center;
+	font-size: 100%;
+	padding: 5px;
+	margin:17px;
+
+}
+
+
+h1 {
+	font-family: cursive;
+	border-left: #000000 0px;
+	padding: 0;
+}
+body p {
+	font-family: cursive;
+	color: #000000;
+}
+
+aside article img {
+	border: 1px solid black;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-right: 10px;
+	
+}
+
+ footer article img {
+ 	border: 1px solid black;
+ 	float: left;
+ 	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+ }
+
+footer section article{
+	background-color:#66CDAA;
+	padding: 0px;
+
+
+}
+
+aside article {
+	background-color: #D3D3D3;
+	margin: 10px;
+	padding: 1px;
+}
+	
+
+aside article p{
+	margin: 10px;
+}
+article {
+	clear: both;
+	}
+
+footer p {
+	background-color: #D3D3D3;
+}
+section img {
+	width: 100%;
+}
+
+section article {
+	background-color: #D3D3D3;
+	padding: 10px;
+}
+
+aside section article {
+	background-color: #D3D3D3;
+	padding: 10px;
+
+}
+
+footer {
+	clear: both;
+	background-color: #66CDAA;
+	margin: 0px;
+	padding: 5px;
+	border: 1px solid black;
+	font-family: cursive;
+	}
+
